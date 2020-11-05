@@ -1,6 +1,8 @@
-# Predict-the-popularity-of-articles
+# Predict the popularity of articles based the shares variable
 
-La description des variables :
+Based on a set of articles (each article has 60 features, generated using sentiment analysis), our goal is to predict the number of shares of each artcle, and thus the popularity of articles. 
+
+Feature description :
 
 - 0. url : URL de l’article (non pertinent)  
 - 1. timedelta : Jou
