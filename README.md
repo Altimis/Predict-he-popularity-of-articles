@@ -1,6 +1,6 @@
 # Predict the popularity of articles based the shares variable
 
-Based on a set of articles (each article has 60 features, generated using sentiment analysis), our goal is to predict the number of shares of each artcle, and thus the popularity of articles. 
+Based on a set of articles (each article has 60 features, generated using sentiment analysis), our goal is to predict the number of shares of each article, and thus the popularity of articles. 
 
 Feature description :
 
